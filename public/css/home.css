@@ -1,0 +1,21 @@
+
+.home {
+    color: white;
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: calc(80vh - 70px);
+}
+
+
+.home span a {
+    text-decoration: none;
+    color: #0095fa;
+}
+
+.home span a:hover {
+    text-decoration: underline;
+}
+
